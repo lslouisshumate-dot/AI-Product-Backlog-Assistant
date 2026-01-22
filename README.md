@@ -3,3 +3,7 @@ A model to help create backlog ready stories from an idea input.
 
 
 <img width="1137" height="712" alt="image" src="https://github.com/user-attachments/assets/4555dabd-a6e2-4274-990c-d7ca68796bb1" />
+
+<img width="1137" height="712" alt="image" src="https://github.com/user-attachments/assets/2e95f343-bd62-42b2-9d12-8dac3d9eb76a" />
+
+<img width="732" height="1105" alt="image" src="https://github.com/user-attachments/assets/ab40b195-5940-4dcb-9cb6-ebbf7523a4d8" />
